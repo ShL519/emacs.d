@@ -1,1 +1,0 @@
-(("/opt/homebrew/" ("Cellar/emacs/30.2_2/share/emacs/30.2/etc/HELLO" 2 1783395755)) ("/Users/xiaoyang.liu/.emacs.d/" ("custom.el" 10 1783397118) ("init.el" 2 1783397117)))
